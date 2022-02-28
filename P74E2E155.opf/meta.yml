@@ -1,0 +1,26 @@
+id: P74E2E155
+initial_creation_type: input
+source_metadata:
+  title: Śāntideva Series
+  language: pt
+  description: 'Texts by and about the Indian master Śāntideva (zhi ba lha), renowned
+    author of the Bodhicaryāvatāra:'
+  volume:
+    857be81a08424e6a89221748724950ce:
+      title: 'The Brightly Shining Sun: A Step-by-Step Guide to Meditating on the
+        Bodhicaryāvatāra'
+      parent: Bodhicaryāvatāra
+    4b180ece49d842a7b6248208b3234a8e:
+      title: 'Bodhicaryāvatāra—Chapter 1: The Benefits of Bodhicitta'
+      parent: Bodhicaryāvatāra Root Text
+    2cc6c4b0040541f0beff1db6613351c1:
+      title: 'Bodhicaryāvatāra—Chapter 2: Confession of Negativity'
+      parent: Bodhicaryāvatāra Root Text
+    27494d0225b544769b8ca0d3c3960c10:
+      title: 'Bodhicaryāvatāra—Chapter 3: Fully Adopting Bodhicitta'
+      parent: Bodhicaryāvatāra Root Text
+    07ebd5f125e1479b99a58e4f3e5ea8b7:
+      title: Prayer to Śāntideva and Dam, Tsang and Jam of Katok
+      parent: Prayers
+created_at: '2022-03-01T02:22:42.795761'
+last_modified_at: '2022-03-01T02:22:42.795765'
